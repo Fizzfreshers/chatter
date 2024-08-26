@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Fizzfreshers/chatter#readme",
   "dependencies": {
+    "express": "^4.19.2",
     "talk-a-tive": "file:"
   }
 }
